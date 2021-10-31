@@ -1,3 +1,20 @@
+## Anteckningar / JR:
+
+- **Fyra program/ställen att hålla koll på**
+  - Typora - för att skapa blogginläggen textmässigt
+  - VS Code - för att kopiera in blogginlägg (från Typora) och göra kodförändringar, t.ex. design
+  - Kommandotolken - navigera till din bloggmapp och kör "gatsby develop" för att se liveförändringar på localhost:8000
+  - Github (via kommandotolken) - Hit pushar du när du är klar - så kommer magiskt förändringarna synas på din hemsida online - gör följande tre steg i kommandotolken (enter mellan varje)
+    - 1) git add .
+      2) git commit -m "new change..."
+      3) git push
+
+
+
+
+
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
 
 <img alt="screenshot" src="./screenshot.gif">
@@ -28,7 +45,7 @@ This is the search-enabled version of Gatsby Personal Starter Blog!
 
     Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to exp	eriment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
     Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
